@@ -2,5 +2,8 @@
 
 Simple repo to test a few auto things
 
-PR Test, with more dedicated controls & more consistent logic, missed if statement
+PR Test: 
+    - Dedicated controls
+    - consistent logic
+    - New commit with echo outputs.
 
