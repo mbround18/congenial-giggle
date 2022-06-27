@@ -6,4 +6,5 @@ PR Test:
     - Dedicated controls
     - consistent logic
     - New commit with echo outputs.
+    - With additional exho outputs from getVersion
 
