@@ -1,0 +1,9 @@
+{
+  "plugins": [
+    "git-tag"
+  ],
+  "owner": "mbround18",
+  "repo": "congenial-giggle",
+  "name": "auto",
+  "email": "no-reply@boop.ninja"
+}
