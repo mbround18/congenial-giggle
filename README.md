@@ -9,4 +9,5 @@ PR Test:
     - With additional exho outputs from getVersion
     - little echo to see if its getting the right lines
     - debugging output
+    - more debugging
 
