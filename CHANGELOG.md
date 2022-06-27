@@ -1,3 +1,15 @@
+# v0.0.3 (Mon Jun 27 2022)
+
+#### ⚠️ Pushed to `main`
+
+- removed little change (no-reply@boop.ninja)
+
+#### Authors: 1
+
+- mbround18 (no-reply@boop.ninja)
+
+---
+
 # v0.0.2 (Mon Jun 27 2022)
 
 #### ⚠️ Pushed to `main`
