@@ -2,4 +2,4 @@
 
 Simple repo to test a few auto things
 
-PR Test
+PR Test, with no canary
