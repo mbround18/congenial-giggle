@@ -1,3 +1,16 @@
+# v0.0.4 (Mon Jun 27 2022)
+
+#### 🐛 Bug Fix
+
+- PR test [#1](https://github.com/mbround18/congenial-giggle/pull/1) (no-reply@boop.ninja [@mbround18](https://github.com/mbround18))
+
+#### Authors: 2
+
+- mbround18 (no-reply@boop.ninja)
+- Michael ([@mbround18](https://github.com/mbround18))
+
+---
+
 # v0.0.3 (Mon Jun 27 2022)
 
 #### ⚠️ Pushed to `main`
