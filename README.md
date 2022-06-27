@@ -10,4 +10,6 @@ PR Test:
     - little echo to see if its getting the right lines
     - debugging output
     - more debugging
+    - Cleaned up script nd found smol bug
+    
 
