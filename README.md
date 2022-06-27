@@ -7,4 +7,5 @@ PR Test:
     - consistent logic
     - New commit with echo outputs.
     - With additional exho outputs from getVersion
+    - little echo to see if its getting the right lines
 
