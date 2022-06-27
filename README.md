@@ -2,5 +2,5 @@
 
 Simple repo to test a few auto things
 
-PR Test, with more dedicated controls
+PR Test, with more dedicated controls & more consistent logic
 
