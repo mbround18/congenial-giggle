@@ -15,4 +15,4 @@ jobs:
           token: "${{ secrets.ADMIN_TOKEN }}"
           
       - run: |
-          echo "Output from Auto ${{ steps.auto.output.version }}"
+          echo "Output from Auto ${{ steps.auto.outputs.version }}"
