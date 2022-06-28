@@ -9,7 +9,7 @@ jobs:
           fetch-depth: 0
           token: "${{ secrets.ADMIN_TOKEN }}"
       
-      - uses: mbruno-kr/auto@patch-1
+      - uses: mbround18/auto@pipeline-output
         id: auto
         with:
           token: "${{ secrets.ADMIN_TOKEN }}"
