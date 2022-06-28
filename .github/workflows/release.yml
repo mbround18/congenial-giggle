@@ -15,4 +15,5 @@ jobs:
           token: "${{ secrets.ADMIN_TOKEN }}"
           
       - run: |
+          # with out log
           echo "Output from Auto ${{ steps.auto.outputs.version }}"
