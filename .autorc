@@ -1,6 +1,5 @@
 {
   "plugins": [
-    ["upload-assets", ["./README.md"]],
     "git-tag"
   ],
   "owner": "mbround18",
