@@ -1,2 +1,4 @@
 .yarn/cache
 *install-state*
+.yarn/unplugged
+tmp
