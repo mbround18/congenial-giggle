@@ -13,5 +13,5 @@ PR Test:
 - Cleaned up script nd found smol bug
 - Moved script to new step and removed the clean up trap. 
 - try powershell
-    
+- no out file pass    
 
