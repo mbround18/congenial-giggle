@@ -12,5 +12,6 @@ PR Test:
 - more debugging
 - Cleaned up script nd found smol bug
 - Moved script to new step and removed the clean up trap. 
+- try powershell
     
 
