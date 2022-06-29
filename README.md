@@ -14,4 +14,4 @@ PR Test:
 - Moved script to new step and removed the clean up trap. 
 - try powershell
 - no out file pass, missed a git push
-
+- with powershell install
