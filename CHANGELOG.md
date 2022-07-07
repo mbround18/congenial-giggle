@@ -1,3 +1,19 @@
+# v0.0.7 (Thu Jul 07 2022)
+
+#### 🐛 Bug Fix
+
+- Update README.md [#4](https://github.com/mbround18/congenial-giggle/pull/4) ([@mbround18](https://github.com/mbround18))
+
+#### ⚠️ Pushed to `main`
+
+- Update .autorc ([@mbround18](https://github.com/mbround18))
+
+#### Authors: 1
+
+- Michael ([@mbround18](https://github.com/mbround18))
+
+---
+
 # v0.0.6 (Thu Jul 07 2022)
 
 #### 🐛 Bug Fix
