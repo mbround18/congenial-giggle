@@ -15,3 +15,4 @@ PR Test:
 - try powershell
 - no out file pass, missed a git push
 - with powershell install
+- with revision
